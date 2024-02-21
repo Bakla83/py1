@@ -29,7 +29,3 @@ file_path = r"C:\Users\263\Desktop\курс 2.2\phyton\Text doc.txt"
 file_name = find_file_name(file_path)
 print("Имя файла:", file_name)
 
-
-
-
-
