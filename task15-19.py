@@ -16,6 +16,7 @@ def count_elements_between_min(arr):
     count = abs(min_index_last - min_index_first) - 1
     return count
 
+
 def count_elements_in_segment(arr, a, b):
     count = sum(1 for x in arr if a <= x <= b)
     return count
